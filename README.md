@@ -1,8 +1,14 @@
 # Descrição
 
-Projeto que tem como objetivo exibir a mensagem "opa!" no terminal. Criado como um exemplo básico para demonstrar a utilização do comando `print()` em Python.
+A funcionalidade principal do código imprime "opa!" na tela, com duas modificações adicionais:
+
+1. Exibir a data de criação.
+2. Exibir o nome da cidade.
+
 
 # Funcionalidade
 
-Quando o programa é executado, ele imprime a seguinte mensagem no terminal: opa!
-
+O script faz o seguinte:
+- Exibe a mensagem "opa!" no console.
+- Exibe a mensagem "19/09/2024" no console.
+- Exibe a mensagem "Parelhas" no console.

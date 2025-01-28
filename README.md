@@ -12,3 +12,5 @@ O script faz o seguinte:
 - Exibe a mensagem "opa!" no console.
 - Exibe a mensagem "19/09/2024" no console.
 - Exibe a mensagem "Parelhas" no console.
+
+(Atividade do Professor Daniel Enos)
